@@ -1,9 +1,30 @@
-import React from 'react'
+import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
+import { styles } from "../styles";
+import { navLinks } from "../constants";
+import { jobit, menu, close } from "../assets";
+
 
 const Navbar = () => {
+  const [active, setActive] = useState("");
   return (
-    <div>Navbar</div>
-  )
-}
+    <nav
+      className={`${styles.paddingX} w-full flex items-center py-5 fixed top-0 z-20 bg-primary`}
+    >
+      <div className="w-full flex justibe-between items-center max-w-7xl mx-auto">
+        <Link
+          to="/"
+          className="flex items-center g-2"
+          onClick={() => {
+            setActive("");
+            window.scrollTo(0, 0);
+          }}
+        >
+          <img src={jobit} alt="jcLogo" className="w-9 h-9 object-contain" />
+        </Link>
+      </div>
+    </nav>
+  );
+};
 
-export default Navbar
+export default Navbar;
