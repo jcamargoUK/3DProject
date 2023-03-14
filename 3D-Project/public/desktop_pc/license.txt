@@ -1,11 +1,1 @@
-Model Information:
-* title:	Gaming Desktop PC
-* source:	https://sketchfab.com/3d-models/gaming-desktop-pc-d1d8282c9916438091f11aeb28787b66
-* author:	Yolala1232 (https://sketchfab.com/Yolala1232)
-
-Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
-
-If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Gaming Desktop PC" (https://sketchfab.com/3d-models/gaming-desktop-pc-d1d8282c9916438091f11aeb28787b66) by Yolala1232 (https://sketchfab.com/Yolala1232) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This model was uploaded to and downloaded from Sketchfab.com under the sole responsibility of the User (as defined on sketchfab.com/terms). The downloading party is solely responsible for ensuring that any User Content uploaded to or downloaded from the Sketchfab Services complies with any applicable laws and third party rights, including but not limited to any intellectual property rights, privacy rights and publicity rights, as per Sketchfab terms sketchfab.com/terms. 
